@@ -3,7 +3,7 @@
 ### 👨‍💻 About Me
 Frontend Development Student  
 Currently learning HTML, CSS, and JavaScript.  
-Have a solid basic level of Python.
+Have a solid basic knowledge of Python.
 
 ### 🛠 Tech Stack
 - HTML  
