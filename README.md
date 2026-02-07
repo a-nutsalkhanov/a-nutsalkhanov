@@ -1,8 +1,8 @@
 ## Hi 👋 I'm Abdullah
 
 ### 👨‍💻 About Me
-Frontend Development Student
-Currently learning HTML, CSS, and JavaScript.
+Frontend Development Student  
+Currently learning HTML, CSS, and JavaScript.  
 Have a solid basic level of Python.
 
 ### 🛠 Tech Stack
@@ -10,7 +10,7 @@ Have a solid basic level of Python.
 - CSS  
 - JavaScript  
 - Python  
-- Git & GitHub  
+- Git & GitHub
 
 ### 📫 Contacts
 - LinkedIn: https://www.linkedin.com/in/abdullah-nutsalkhanov-3b33203a9  
